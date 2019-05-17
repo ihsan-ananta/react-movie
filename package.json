@@ -18,5 +18,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ihsan-ananta.github.io/react-movie/"
+  "homepage": "https://ihsan-ananta.github.io/react-movie-imdb/"
 }
